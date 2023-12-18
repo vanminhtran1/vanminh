@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T08:24:38.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="u-574rb0Yr7Q-UseFyHU" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T08:25:08.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="2s__cQXKh9PLY-QJkFV3" version="22.1.11" type="github">
   <diagram name="Page-1" id="O-Mc9IpzTSZV31hoqgJX">
     <mxGraphModel dx="1843" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -280,9 +280,6 @@
             <mxPoint x="39.22999999999999" y="440" as="sourcePoint" />
             <mxPoint x="39.22999999999999" y="300" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ijUQ5QHxTH0PN0Z5ZuHK-77" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2_POE.svg;" vertex="1" parent="1">
-          <mxGeometry x="440.6" y="470" width="74.4" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ijUQ5QHxTH0PN0Z5ZuHK-88" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.connect;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="530" width="50.87" height="39" as="geometry" />
