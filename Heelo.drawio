@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T07:14:57.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="xJrBrTJmZ5fSiSK1mHM4" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T07:16:44.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="7GNBVuKfWMntATdkg4u4" version="22.1.11" type="github">
   <diagram name="Page-1" id="xgVY4OVRC5Y2KXeyJmMS">
     <mxGraphModel dx="1644" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
           <mxGeometry x="606.11" y="606.9" width="38.89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-104" value="&lt;div&gt;Phòng&lt;/div&gt;&lt;div&gt;Họp&lt;/div&gt;&lt;div&gt;1&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-66" y="492.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="-15" y="480" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-105" value="CTHDTV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="671.2" y="490" width="70" height="30" as="geometry" />
