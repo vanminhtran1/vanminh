@@ -1,9 +1,233 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T04:00:37.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.11" etag="v3XisCrrKYtfVLAnJdzV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T04:50:14.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="LM8sVsdi1NVURfy-00fJ" version="22.1.11" type="github">
   <diagram name="Page-1" id="QJJLpK6nWcHFGWCywGAE">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321.2" y="470.7" as="sourcePoint" />
+            <mxPoint x="761.2" y="470.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="483.8" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="640" y="610" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="483.8" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-11" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-12" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="257.6" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-13" value="Phòng Họp" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="171.2" height="171.2" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="523.8" as="sourcePoint" />
+            <mxPoint x="320" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="440" />
+              <mxPoint x="320" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221.2" y="523.8" as="sourcePoint" />
+            <mxPoint x="221.2" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221.2" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221.2" y="320" as="sourcePoint" />
+            <mxPoint x="221.2" y="196.2" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221.2" y="236.2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-18" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
+          <mxGeometry x="21.2" y="220" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbKtXzE4tQQhxxHaPXXX-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="520" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbKtXzE4tQQhxxHaPXXX-20" target="UbKtXzE4tQQhxxHaPXXX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UbKtXzE4tQQhxxHaPXXX-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-21" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-22" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221.2" y="212.4" as="sourcePoint" />
+            <mxPoint x="221.2" y="128.6" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221.2" y="128.6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221.2" y="70.7" as="sourcePoint" />
+            <mxPoint x="221.39999999999998" y="2.6645352591003757e-15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="221.39999999999998" y="2.6645352591003757e-15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20.600000000000023" y="-1" as="sourcePoint" />
+            <mxPoint x="250.60000000000002" y="-1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="sourcePoint" />
+            <mxPoint x="320" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="270" />
+              <mxPoint x="320" y="126.2" />
+              <mxPoint x="320" y="160" />
+              <mxPoint x="320" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="70.7" as="sourcePoint" />
+            <mxPoint x="320.2" y="3.552713678800501e-15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320.2" y="3.552713678800501e-15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" as="sourcePoint" />
+            <mxPoint x="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-30" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="363" y="20" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-33" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="363" y="240" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="32.400000000000006" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-35" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="240" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-38" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="157.6" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.printer;" vertex="1" parent="1">
+          <mxGeometry x="333" y="62.400000000000006" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-40" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.printer;" vertex="1" parent="1">
+          <mxGeometry x="191.2" y="44.5" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-41" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.printer;" vertex="1" parent="1">
+          <mxGeometry x="590" y="640" width="30" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="578.1" as="sourcePoint" />
+            <mxPoint x="320" y="704.3000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="701.2" as="sourcePoint" />
+            <mxPoint x="760" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="400" as="sourcePoint" />
+            <mxPoint x="760" y="701.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" as="sourcePoint" />
+            <mxPoint x="760" y="321.20000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-47" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png;rotation=-165;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/web-development-and-studio/512/110_walkie_talkie_communication_radio_camping_camping_camp-128.png" vertex="1" parent="1">
+          <mxGeometry x="337.2" y="577.2" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-49" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-54" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="17.6" y="82.40000000000002" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-58" value="KHCN &amp;amp; MT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-59" value="Khai Thac" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="472.4" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UbKtXzE4tQQhxxHaPXXX-60" value="Logistics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="506.2" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
