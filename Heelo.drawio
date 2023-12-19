@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T04:14:27.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="nDZLE2x2jEqSRVjOHAqx" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T04:14:52.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="ci9BQRd2P93PifPoSzX-" version="22.1.11" type="github">
   <diagram name="Page-1" id="xgVY4OVRC5Y2KXeyJmMS">
     <mxGraphModel dx="794" dy="2918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -447,9 +447,6 @@
         </mxCell>
         <mxCell id="eJOlYhCRjqgijH9jK-Gg-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
           <mxGeometry x="630.84" y="-620" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eJOlYhCRjqgijH9jK-Gg-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Front_Doors.svg;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="651.73" y="-750.38" width="121.29" height="106.74" as="geometry" />
         </mxCell>
         <mxCell id="eJOlYhCRjqgijH9jK-Gg-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/secure.svg;" vertex="1" parent="1">
           <mxGeometry x="422.2" y="-768" width="12.8" height="20" as="geometry" />
