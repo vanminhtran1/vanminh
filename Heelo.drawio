@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T03:15:20.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="zNTB3ftrdFY2fjIFBmRn" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T04:09:45.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="bBTTHVkphwBr5RyihaUE" version="22.1.11" type="github">
   <diagram name="Page-1" id="xgVY4OVRC5Y2KXeyJmMS">
     <mxGraphModel dx="794" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,9 +118,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHhUiTr5qR7hJuiNgqs5-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-728" width="160" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-32" value="HT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="739" y="-778" width="40" height="30" as="geometry" />
         </mxCell>
@@ -172,14 +169,11 @@
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-53" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
           <mxGeometry x="220" y="-1088" width="32.4" height="32.4" as="geometry" />
         </mxCell>
-        <mxCell id="HHhUiTr5qR7hJuiNgqs5-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HHhUiTr5qR7hJuiNgqs5-54" target="HHhUiTr5qR7hJuiNgqs5-55" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="-923" width="50" height="30" as="geometry" />
+          <mxGeometry x="215.6" y="-946.7" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-55" value="" style="points=[[0.22,0.185,0],[0.5,0,0],[0.78,0.185,0],[0.975,0.49,0],[1,0.73,0],[0.975,0.97,0],[0.5,1,0],[0.025,0.97,0],[0,0.73,0],[0.025,0.49,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.printer;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="-1028" width="38.89" height="35" as="geometry" />
+          <mxGeometry x="241.11" y="-1043" width="38.89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HHhUiTr5qR7hJuiNgqs5-56" value="" style="points=[[0.22,0.185,0],[0.5,0,0],[0.78,0.185,0],[0.975,0.49,0],[1,0.73,0],[0.975,0.97,0],[0.5,1,0],[0.025,0.97,0],[0,0.73,0],[0.025,0.49,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.printer;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="325" y="-1038" width="38.89" height="35" as="geometry" />
@@ -453,6 +447,9 @@
         </mxCell>
         <mxCell id="eJOlYhCRjqgijH9jK-Gg-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
           <mxGeometry x="630.84" y="-620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eJOlYhCRjqgijH9jK-Gg-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Front_Doors.svg;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="651.73" y="-750.38" width="121.29" height="106.74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
